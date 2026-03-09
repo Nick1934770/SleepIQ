@@ -21,6 +21,9 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
+# Streamlit secrets (never commit credentials)
+.streamlit/secrets.toml
+
 # Saved models (if you generate them locally)
 *.pkl
 *.joblib
