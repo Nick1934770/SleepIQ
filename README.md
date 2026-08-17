@@ -1,4 +1,4 @@
-# 🌙 SleepIQ — AI-Powered Sleep Quality Predictor
+# 🌙 SleepIQ — Sleep Quality Predictor
 
 SleepIQ is a machine learning web app that predicts your sleep quality based on your daily health habits and gives you personalised recommendations to improve it.
 
